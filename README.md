@@ -1,2 +1,2 @@
 # Demo 
-Some details of the projects
+Some details of the projects!
